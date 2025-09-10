@@ -20,3 +20,20 @@
 
 ### Steps Included
 1. Clone the repository
+
+2. Install dependencies
+
+3. Run the Application
+
+4. Run tests
+
+5. `pytest or python -m pytest or py -m pytest`
+
+### Key Insights
+
+
+
+
+
+### Project Structure
+
