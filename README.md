@@ -16,4 +16,7 @@
 >- Weather Api
 >- CMD
 >- Docker
->- 
+
+
+### Steps Included
+1. Clone the repository
